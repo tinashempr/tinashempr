@@ -37,8 +37,8 @@ I am a Software Engineering student at **USIU-Africa** with a passion for buildi
 ---
 
 ### 📊 GitHub Stats
-![Tinashe's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME_HERE&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME_HERE&layout=compact&theme=radical)
+![Tinashe's GitHub stats](https://github-readme-stats.vercel.app/api?username=tinashempr&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tinashempr&layout=compact&theme=radical)
 
 ---
 
