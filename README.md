@@ -46,5 +46,4 @@ I am a Software Engineering student at **USIU-Africa** with a passion for buildi
 - **LinkedIn:** [linkedin.com/in/tinashempariwa](https://linkedin.com/in/tinashempariwa)
 - **Portfolio:** *Coming Soon*
 
----
-*"Code is the foundation; Design is the soul."*
+
